@@ -48,3 +48,7 @@ CleanSubs is a Windows desktop application that scans subtitle (.srt) files for 
 ## Malaysian Regulation Compliance
 
 CleanSubs is designed with Malaysian content regulations in mind. The profanity lists and classification levels are tailored to align with local censorship guidelines, helping ensure that media content meets regulatory standards.
+
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
