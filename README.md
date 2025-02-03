@@ -16,9 +16,6 @@ CleanSubs is a Windows desktop application that scans subtitle (.srt) files for 
 - **Clear and Formatted Output:**  
   Flagged subtitle entries are numbered and show a bolded timestamp (e.g., `1. At 20:08:09:`) followed by the offending subtitle block.
 
-- **High-DPI Awareness:**  
-  Optimized for crisp visuals on Windows 10/11 high-resolution displays.
-
 ## Requirements
 
 - Windows 10/11
