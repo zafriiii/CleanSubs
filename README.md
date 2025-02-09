@@ -23,7 +23,7 @@ CleanSubs is a Windows desktop application that scans subtitle (.srt) files for 
 
 ## Installation
 
-**Important:** The `CleanSubs.exe` file alone is **not** sufficient to run the application because it depends on `python312.dll` and possibly other support files. To ensure that the application runs correctly, please do the following:
+**Important:** The `CleanSubs.exe` file alone is **not sufficient** to run the application because it depends on `python312.dll` and possibly other support files. To ensure that the application runs correctly, please do the following:
 
 1. Go to the **Releases** tab of this repository.
 2. Download the **SourceCode.zip** file provided in the latest release.
