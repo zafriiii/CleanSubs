@@ -22,7 +22,7 @@ CleanSubs is a Windows desktop application that scans subtitle (.srt) files for 
 
 ## Installation
 
-1. Go to the [Releases](Releases) tab of this repository.
+1. Go to the [Releases](https://github.com/zafriiii/CleanSubs/releases/tag/v1.1) tab of this repository.
 2. Download the **CleanSubsSetup.exe** file provided in the latest release.
 3. Install CleanSubs by clicking **CleanSubsSetup.exe** and follow the installation instruction.
 4. Run `CleanSubs.exe`.
