@@ -19,23 +19,17 @@ CleanSubs is a Windows desktop application that scans subtitle (.srt) files for 
 ## Requirements
 
 - Windows 10/11
-- The application is built with Python 3.12 and requires `python312.dll` to run.
 
 ## Installation
 
-**Important:** The `CleanSubs.exe` file alone is **not sufficient** to run the application because it depends on `python312.dll` and possibly other support files. To ensure that the application runs correctly, please do the following:
-
 1. Go to the **Releases** tab of this repository.
-2. Download the **SourceCode.zip** file provided in the latest release.
-3. Extract **CleanSubs-1.1.0.zip** to a folder. 
-4. Run `CleanSubs.exe` from the extracted folder.
+2. Download the **CleanSubsSetup.exe** file provided in the latest release.
+3. Install CleanSubs by Clicking **CleanSubsSetup.exe**
+4. Run `CleanSubs.exe`.
 
 ## Usage
 
-1. **Launch the Application:**  
-   Open the folder where you extracted **SourceCode.zip** and double-click the `CleanSubs.exe` file to start the application.
-
-2. **Select Subtitle Files:**  
+1. **Select Subtitle Files:**  
    Click the **Select SRT Files** button and choose one or more `.srt` files to scan.
 
 3. **Choose Classification:**  
@@ -50,10 +44,6 @@ CleanSubs is a Windows desktop application that scans subtitle (.srt) files for 
 5. **Scan for Profanities:**  
    Click the **Scan** button.  
    The application will display a numbered list of flagged entries along with the exact (adjusted) times when the profanities occur.
-
-## Malaysian Regulation Compliance
-
-CleanSubs is designed with Malaysian content regulations in mind. The profanity lists and classification levels are tailored to align with local censorship guidelines, helping ensure that media content meets regulatory standards.
 
 ## License
 
